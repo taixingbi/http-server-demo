@@ -1,5 +1,7 @@
+#### start http
+        node server.js
 
-#### nodeJS install http global
+#### node install http (only once)
         npm install http-server -g
 
 
